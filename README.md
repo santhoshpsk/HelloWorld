@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World project with all types of language scripts
+This project will contain any number of language testing files. Identify each files functionality based on their name and extension.
