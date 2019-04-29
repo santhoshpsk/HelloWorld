@@ -1,1 +1,3 @@
-echo "This is a test.\nThis should work."
+id
+hostname
+ls -l /root/
